@@ -1,0 +1,523 @@
+body{
+    background-color: #ebd0cf;
+    overflow-x: hidden;
+}
+.container{
+     max-height: 1420px;
+}
+/* START HEADER SECTION */
+.header{
+     margin-bottom: 150px;
+     padding-top: 50px;
+     padding-bottom: 40px;
+     border-bottom: 2px solid green;
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 22px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    padding-right: 70px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+     color:darkgreen;
+     font-weight: 900;
+}
+.header input[type=text]{
+    width: 70%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url(/15-NovSuppLocalBuiss/assets/Images/SearchIcon.png);
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    margin-right: 20px;
+    padding: 12px 20px 12px 40px;
+}
+/* START BANNER1 section  */
+.banner1{
+     margin-bottom: 60px;
+}
+.banner1 h1{
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-left: 630px;
+}
+.banner1 h2{
+    font-size: 90px;
+    line-height: 93px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-left: 630px;
+}
+.banner1 p{
+    font-size: 17px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin: 30px 0px;
+}
+.banner1 .btn1{
+    background-color: #ebd0cf;
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-left: 0px;
+}
+/* START GROUP2 */
+.banner2{
+     margin-bottom: 100px;
+}
+.banner2 img{
+     margin-left: 40px;
+}
+.banner2 h1{
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+}
+.banner2 h2{
+    font-size: 57px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-bottom: 60px;
+}
+.banner2 p{
+    font-size: 17px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 30px;
+}
+/* START GROUP 3 */
+.banner3{
+     margin-bottom: 0px;
+}
+.banner3 .col-md-8{
+    padding-top: 250px;
+    padding-left: 250px;
+}
+.banner3 h1{
+    font-size: 28px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-bottom: 30px;
+}
+.banner3 h2{
+    font-size: 90px;
+    line-height: 93px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-bottom: 30px;
+}
+.banner3 p{
+    font-size: 17px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-bottom: 30px;
+}
+.banner3 .btn3{
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    background-color: #ebd0cf;
+    padding: 12px 20px;
+    margin-bottom: 250px;
+}
+.banner3 .col-md-4 img{
+    margin-top: 180px;
+    margin-left: -130px;
+}
+/* START GROUP 4 */
+/* START BANNER 4 */
+.banner4{
+     margin-bottom: 0px;
+}
+.banner4 h1{
+    font-size: 90px;
+    line-height: 93px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.banner4 p{
+    font-size: 17px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: left;
+    margin: 30px 0px;
+    margin-left: 100px;
+}
+.banner4 .btn4{
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    border: 5px solid #4a7163;
+    margin-left: 100px;
+}
+/* START GROUP 5 */
+/* START BANNER 5 */
+.banner5{
+     margin-bottom: 0px;
+}
+.banner5 h1{
+    font-size: 90px;
+    line-height: 93px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.banner5 p{
+    font-size: 17px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: left;
+    margin: 30px 0px;
+    margin-left: 100px;
+}
+.banner5 .btn5{
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    border: 5px solid #4a7163;
+    margin-left: 100px;
+}
+/* START GROUP 6 */
+.banner6{
+    background-color: #4a7163;
+    border: 1px solid #4a7163;
+}
+.banner6 h1{
+    font-size: 90px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 80px;
+}
+.banner6 h2{
+    font-size: 28px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+}
+.banner6A{
+     margin-bottom: 0px;
+     background-color: #4a7163;
+}
+.banner6A img{
+    margin-left: 40%;
+    margin-top: 30px;
+}
+.banner6A h3{
+    font-size: 17px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 30px;
+}
+.banner6A p{
+    font-size: 17px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.banner6B{
+    background-color: #4a7163;
+}
+.banner6B img{
+     margin-left: 40%;
+     margin-top: 30px;
+}
+.banner6B h3{
+    font-size: 17px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 30px;
+}
+.banner6B p{
+    font-size: 17px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+/* START GROUP 7 */
+.banner7{
+     margin-bottom: 0px;
+}
+.banner7 h1{
+     margin: 60px 0px;
+     font-size: 90px;
+     color: #4a7163;
+     font-weight: 400;
+     font-family: "Tenor Sans";
+     text-align: center;
+}
+.banner7A h2{
+    font-size: 28px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-top: 25px;
+}
+.banner7A p{
+    font-size: 17px;
+    color: #4a7163;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    margin-bottom: 35px;
+}
+.banner7A img{
+    margin-left: 85px;
+}
+.banner7C .btn7{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 650px;
+    font-size: 28px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    text-align: center;
+    background-color: #4a7163;
+    padding: 10px 40px;
+}
+/* START GROUP 8 */
+.banner8{
+     margin-bottom: 0px;
+     background-color: #4a7163;
+     border: 1px solid #4a7163;
+}
+.banner8 h1{
+    font-size: 75px;
+    line-height: 81px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-top: 110px;
+    margin-left: 80px;
+}
+.banner8 h2{
+    font-size: 25px;
+    line-height: 66px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.banner8 ul{
+    list-style-type: none;
+}
+.banner8 ul li a{
+    text-decoration: none;
+    font-size: 21px;
+    line-height: 35px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+}
+.banner8 h3{
+    font-size: 21px;
+    line-height: 35px;
+    color: #ebd0cf;
+    font-weight: 400;
+    font-family: "Tenor Sans";
+    margin:60px 90px 150px;
+}
+
+
+@media(max-width: 480px){
+    html,body{
+        overflow-x: hidden;
+    }
+    .header{
+        padding-top: 10px;
+        padding-bottom: 5px;
+        margin-bottom: 0;
+    }
+    button.navbar-toggler{
+        position: absolute;
+        right: 0;
+        top: -38px;
+    }
+    .logo img{
+        width: 200px;
+    }
+    .banner1 h1{
+        margin-left: 15px;
+        margin-top: 30px;
+    }
+    .banner1 h2{
+        font-size: 26px;
+        line-height: 33px;
+        margin-left: 15px;
+    }
+    .banner1-img img{
+        width: 325px !important;
+        height: auto !important;
+        margin-top: 0 !important;
+        margin-left: 0 !important;
+    }
+    .banner1 p{
+        padding-left: 15px;
+    }
+    .banner1 p br{
+        display: none;
+    }
+    .banner1 .btn1{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .banner2{
+        padding-bottom: 100px;
+    }
+    .banner3 .col-md-8{
+         padding-top: 80px;
+         padding-left: 65px;
+    }
+    .banner3 h2{
+         font-size: 45px;
+         line-height: 55px;
+    }
+    .banner3 p{
+         font-size: 25px;
+         margin-bottom: 45px;
+    }
+    .banner3 .btn3{
+        padding: 12px 66px;
+        margin-bottom: 80px;
+    }
+    .banner3 .col-md-4 img{
+         margin-top: 0px;
+         margin-left: 56px;
+         width: 330px;
+         margin-bottom: 50px;
+    }
+    .banner4 .col-md-6 img{
+        width: 330px;
+        margin-left: 55px;
+        margin-top: 100px;
+    }
+    .banner4 h1{
+        font-size: 75px;
+        line-height: 70px;
+        margin-top: 25px;
+        margin-left: 65px;
+    }
+    .banner4 p{
+        font-size: 23px;
+        margin-left: 70px;
+    }
+    .banner4 .btn4{
+         font-size: 27px;
+         margin-left: 69px;
+         padding: 0px 45px;
+    }
+    .banner5 h1{
+         font-size: 65px;
+         line-height: 60px;
+         margin-top: 100px;
+         margin-left: 70px;
+    }
+    .banner5 p{
+        font-size: 23px;
+        margin-left: 75px;
+    }
+    .banner5 .btn5{
+        font-size: 25px;
+        margin-left: 75px;
+        padding: 0px 67px;
+        margin-bottom: 45px;
+    }
+    .banner5 .col-md-6 img{
+        width: 330px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+    }
+    .banner6 h1{
+         font-size: 65px;
+    }
+    .banner6 h2{
+        font-size: 20px;
+    }
+    .banner6A img{
+        margin-left: 34%;
+    }
+    .banner6A h3{
+        font-size: 25px;
+    }
+    .banner6A p{
+         font-size: 28px;
+         margin-bottom: 40px;
+    }
+    .banner6B img{
+        margin-left: 34%;
+    }
+    .banner6B h3{
+        font-size: 25px;
+    }
+    .banner6B p{
+        font-size: 28px;
+        margin-bottom: 40px;
+    }
+    .banner7 h1{
+        font-size: 50px;
+    }
+    .banner7A img{
+        margin-left: 28px;
+        width: 370px;
+    }
+    .banner7C .btn7{
+         margin-top: 20px;
+         margin-left: 70px;
+         padding: 10px 71px;
+    }
+    .banner8 h1{
+        line-height: 80px;
+        margin-top: 65px;
+        margin-left: 62px;
+    }
+    .banner8 h2{
+        margin-left: 70px;
+        margin-top: 30px;
+    }
+    .banner8 ul li a{
+        margin-left: 65px;
+    }
+}
